@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../components/Header";
 import Entry from "../components/EntryMedicines";
-import medicines from "../medicines";
+import medicines from "../components/medicines";
 
 function createEntry(medicineTerm) {
   return (

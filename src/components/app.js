@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route}
 import Home from "../Pages/Home";
 import About from "../Pages/AboutUs";
 import Auth from "../Pages/Auth";
-import Order from "../Pages/order";
+import Order from "../Pages/Order";
 import MedicalService from "../Pages/MedicalService";
 import Test from "../Pages/BookTest";
 import Appoinment from "../Pages/Appoinment";
