@@ -1,6 +1,6 @@
 const medicines = [
     {
-      id: 1,
+      id : 1,
       medicine: "",
       name: "Paracetamol",
       properties:
