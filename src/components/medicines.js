@@ -1,124 +1,75 @@
 const medicines = [
     {
-      id: 1,
+      id : 1,
       medicine: "",
       name: "Paracetamol",
       properties:
-        "“You can do that!” or “I feel strong!” Arm with tense biceps. Also used in connection with doing sports, e.g. at the gym."
+        "It is mainly used to relieve mild or moderate pain, such as headaches ,toothache or sprains . It can also be used in case of mild cold or flu ."
     },
     {
       id: 2,
       medicine: "",
       name: "Azethromycine",
       properties:
-        "Two hands pressed together. Is currently very introverted, saying a prayer, or hoping for enlightenment. Is also used as a “high five” or to say thank you."
+        "It is primarily used for the treatment of respiratory, enteric and genitourinary infections . It can also be used as a replacement of other macrolides in case of some enteric or transmitted infections ."
     },
     {
       id: 3,
       medicine: "",
-      name: "Cotremazol",
+      name: "Clotrimazole",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        " It is used to treat  yeast infections, oral thrush, diaper rash, tinea versicolor, and types of ringworm including athlete's foot and jock itch."
     },
     {
       id: 4,
       medicine: "",
       name: "Omaze10",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "It helps treat acid-related diseases of the stomach and intestine such as heartburn, acid reflux, and peptic ulcer disease."
     },
     {
-      id: 4,
+      id: 5,
       medicine: "",
-      name: "Co",
+      name: "Hydrocodone",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "Used for treatment of severe pain and also an antitussive for adults."
     },
     {
-      id: 4,
+      id: 6,
       medicine: "",
-      name: "Co",
+      name: "Amikacin",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "It is used to treat serious bacterial infections in many different parts of the body."
     },
     {
-      id: 4,
+      id: 7,
       medicine: "",
-      name: "Co",
+      name: "Dapsone",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "It is used to prevent or treat infections, such as Pneumocystis carinii pneumonia.Dapsone is also used to treat some skin diseases."
     },
     {
-      id: 4,
+      id: 8,
       medicine: "",
-      name: "Co",
+      name: "Fidaxomicin ",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "is used to treat diarrhea caused by a bacterial infection called Clostridioides difficile. "
     },
     {
-      id: 4,
+      id: 9,
       medicine: "",
-      name: "Co",
+      name: "Labetalol",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        "It reduces the workload of the heart and helps it to beat more regularly. It lowers blood pressure in many different ways. "
     },
     {
-      id: 4,
+      id: 10,
       medicine: "",
-      name: "Co",
+      name: "Enoxaparin",
       properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+        " It is used to treat patients who have a blood clot. It can also be used to prevent blood clots in patients who are at risk of developing a clot. "
     },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-    {
-      id: 4,
-      medicine: "",
-      name: "Co",
-      properties:
-        "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
-    },
-
+    
   ];
   
   export default medicines;
