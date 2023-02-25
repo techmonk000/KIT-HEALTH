@@ -50,8 +50,6 @@ function ContactUs() {
     }
 
     if (isValid) {
-      // Send the form data to your server or do something with it
-      // In this example, we're just displaying a success message to the user
       setSuccessMsg('Your message has been sent!');
       setName('');
       setEmail('');
@@ -66,7 +64,7 @@ function ContactUs() {
 
   return (
     
-    <div>
+    <div align="center">
 
     
        <h1>Contact Us</h1>
