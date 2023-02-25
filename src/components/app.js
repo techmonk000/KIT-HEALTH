@@ -14,6 +14,8 @@ import Insurance from "../Pages/Insurance";
 import Health from "./Confirmation Pages/Health";
 import Life from "./Confirmation Pages/Life";
 import Total from "./Confirmation Pages/Total";
+import ContactUs from "../Pages/Contactus";
+
 
 function App() {
   return (
@@ -31,6 +33,7 @@ function App() {
       <Route path="/goHealth" element={<Health />} />
       <Route path="/goLife" element={<Life />} />
       <Route path="/totalCoverage" element={<Total />} />
+      <Route path="/ContactUs" element={<ContactUs/>}/>
       </Routes>
     </Router>
   );
