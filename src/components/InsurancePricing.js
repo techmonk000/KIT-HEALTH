@@ -11,7 +11,7 @@ const InsurancePricing = () =>{
                 <div class="col-md-12">
                     
                     <div class="price-heading clearfix">
-                        <h1>Protect Your Family With KIT-HEALTH</h1>
+                        <h1> KIT-HEALTH ,Your bridge to Premier Care </h1>
                     </div>
                   
                 </div>
@@ -35,7 +35,7 @@ const InsurancePricing = () =>{
                            
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Health Insurance</span>
+                                    <span> Health Insurance </span>
                                 </div>
                                
                                 
@@ -88,7 +88,7 @@ const InsurancePricing = () =>{
                          
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Life Insurance</span>
+                                    <span> Life Insurance </span>
                                 </div>
                                
                             </div>
@@ -107,11 +107,11 @@ const InsurancePricing = () =>{
                        
                         <div class="generic_feature_list">
                           <ul>
-                              <li><span>Easy</span> Claims</li>
-                                <li><span>00%</span> Returns</li>
-                                <li><span>Zero</span> Processing Charge</li>
-                                <li><span>Multiple</span> Nominies</li>
-                                <li><span>Complete</span> Safety</li>
+                              <li><span> Easy </span> Claims</li>
+                                <li><span> 0.0% </span> Returns</li>
+                                <li><span> No </span> Processing Charge Required </li>
+                                <li><span> Multiple </span> Nominies Allowed </li>
+                                <li><span> Full Assurance of Your </span> Safety</li>
                             </ul>
                         </div>
                      
@@ -138,7 +138,7 @@ const InsurancePricing = () =>{
                               
                                 <div class="head_bg"></div>
                                 <div class="head">
-                                    <span>Health + Life</span>
+                                    <span> Health + Life </span>
                                 </div>
                                 
                                 
@@ -158,11 +158,11 @@ const InsurancePricing = () =>{
                         
                         <div class="generic_feature_list">
                           <ul>
-                              <li><span>3000+</span> Hospitals</li>
-                                <li><span>Complete</span> Cashless</li>
-                                <li><span>Zero</span> Processing fees</li>
-                                <li><span>00%</span> Returns</li>
-                                <li><span>Total</span> Coverave</li>
+                              <li><span> 3000+ </span> Hospitals</li>
+                                <li><span> Complete </span> Cashless</li>
+                                <li><span> No </span> Processing fees Required </li>
+                                <li><span> 0.0% </span> Returns</li>
+                                <li><span>Total</span> Coverage </li>
 
                             </ul>
                         </div>
